@@ -1,0 +1,26 @@
+.newTodo{
+  background-color: rgb(180, 180, 255);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+  height: 4vh;
+  margin: 1vh auto;
+}
+
+.delete{
+  background-color: red;
+  border: black solid 1px;
+  color: white;
+  border-radius: 0.6vh;
+}
+
+.complite{
+  text-decoration: line-through;
+  color: hwb(240 93% 3%)
+}
+
+h5{
+  color: hsl(240, 92%, 14%);
+}

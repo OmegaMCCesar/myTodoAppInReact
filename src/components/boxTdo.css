@@ -1,0 +1,29 @@
+.container{
+  background-color: blue;
+  width: 60%;
+  margin: 1vh auto;
+  border-radius: 2vh;
+  color: white;
+  font-size: large;
+  padding: 3vh;
+}
+
+h1{
+  background-color: aqua;
+  width: 95%;
+  margin: 2vh auto;
+  height: 90%;
+}
+
+.inp-newTodo{
+  margin: 2vh auto;
+}
+
+button{
+  color: white;
+  background-color: #696eff;
+  margin: 1vh 3vh;
+}
+button:hover{
+  background-color: #02027d ;
+}
